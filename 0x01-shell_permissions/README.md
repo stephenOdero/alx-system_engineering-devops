@@ -15,3 +15,4 @@ chmod, chgrp,chown,su,sudo
 11-directories_permissions: Script that adds execute permissions to all subdirectories of the current directory for the owner, group owner and all users. 
 12-directory_permissions
 13-change_group: a script that changes the group owner to school for the file hello which is in the working directory
+100-change_owner_and_group: A script to change the owner to vincent and the group owner to staff for all the files and directories in the working directoty

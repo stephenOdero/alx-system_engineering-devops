@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chwon --if=guillaume:betty hello
+sudo chwon --from=guillaume betty hello

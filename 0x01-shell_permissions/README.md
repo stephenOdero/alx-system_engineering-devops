@@ -13,3 +13,4 @@ chmod, chgrp,chown,su,sudo
 9-John_Doe: A script that sets the mode of the file hello to 753 for the user julien
 10-mirror_permissions: A script that copies the permissions of one file to the other <chmod --reference=referenceFile fileToChange>
 11-directories_permissions: Script that adds execute permissions to all subdirectories of the current directory for the owner, group owner and all users. 
+12-directory_permissions

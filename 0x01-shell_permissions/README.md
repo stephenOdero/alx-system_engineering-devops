@@ -14,3 +14,4 @@ chmod, chgrp,chown,su,sudo
 10-mirror_permissions: A script that copies the permissions of one file to the other <chmod --reference=referenceFile fileToChange>
 11-directories_permissions: Script that adds execute permissions to all subdirectories of the current directory for the owner, group owner and all users. 
 12-directory_permissions
+13-change_group: a script that changes the group owner to school for the file hello which is in the working directory

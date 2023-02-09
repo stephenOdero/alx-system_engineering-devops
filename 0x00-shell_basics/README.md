@@ -1,1 +1,7 @@
-A script that prints the absolute path name of teh current working directory.
+
+
+0 A script that prints the absolute path name of teh current working directory.
+1 A script that displays the content list of the current directory
+2 A script that changes the working directory to the user's home directory
+3 A script to display current directory contents in a long format
+

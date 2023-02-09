@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo rmdir $ROOT/tmp/my_first_directory

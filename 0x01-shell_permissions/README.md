@@ -10,3 +10,4 @@ chmod, chgrp,chown,su,sudo
 6-multiple_permissions: This script adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 7-everybody: This script adds execution permission to the owner (u), group owner (g), and the other users (o)
 8-James-Bond: A script that sets the permission of the file hello as follows: owner has no permission at all, group has no permission at all while other users have all the permission
+9-John_Doe: A script that sets the mode of the file hello to 753 for the user julien

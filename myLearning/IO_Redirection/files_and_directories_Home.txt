@@ -1,0 +1,11 @@
+.
+..
+.bash_history
+.bashrc
+.bashrc.original
+.lesshst
+.profile
+.python_history
+.ssh
+.sudo_as_admin_successful
+.zshrc

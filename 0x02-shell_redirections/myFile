@@ -21,3 +21,4 @@ systemd-network:x:101:102:systemd Network Management,,,:/run/systemd:/usr/sbin/n
 systemd-resolve:x:102:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
 odero:x:1000:1000:,,,:/home/odero:/bin/bash
 stephen:x:1001:1001::/home/stephen:/bin/sh
+stephen:x:1001:1001::/home/stephen:/bin/sh

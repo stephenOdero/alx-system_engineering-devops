@@ -1,20 +1,15 @@
 #include <ctype.h>
-/**
-  * My main.h header file
-  * Description - a function that checks whether
-  * the character entered is upper or otherwise
-  *
-*/
 
 /**
-  * _isupper: My function
-  * Description: a function that checks for uppercase letters
+  * _isupper - function that checks if character c is lower/upper
+  * @c: The character to check
   * Return: 1 if uppercase and 0 if otherwise
 */
 
 int _isupper(int c)
 {
 	int return_value;
+
 	if (isupper(c))
 	{
 		return (1);

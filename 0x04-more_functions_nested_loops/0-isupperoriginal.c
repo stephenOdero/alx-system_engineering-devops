@@ -1,4 +1,4 @@
-#include "main.h"
+#include <ctype.h>
 
 /**
   * _isupper - function that checks if character c is lower/upper
@@ -8,8 +8,14 @@
 
 int _isupper(int c)
 {
-	if ((c >= 'A') && (c <= 'Z'))
+	int return_value;
+
+	if (isupper(c))
+	{
 		return (1);
+	}
 	else
+	{
 		return (0);
+	}
 }
